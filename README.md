@@ -1,4 +1,4 @@
-# 📱 Mockoops
+# 📱 Render Client
 
 ![Intro GIF](https://user-images.githubusercontent.com/48997634/177388575-6a74b925-d736-4463-876e-8c48b1a99ee9.gif)
 
